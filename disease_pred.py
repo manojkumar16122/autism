@@ -26,7 +26,6 @@ with st.sidebar:
                           default_index=0)
     
 if (selected == 'Autism Prediction'):
-    with st.markdown("![Foo](https://media.istockphoto.com/id/1327970996/photo/world-autism-awareness-day-banner.jpg?b=1&s=170667a&w=0&k=20&c=XB5xUVpse28_WTWJP2XQZ904L5cqf5c9NaV0Ozi3WJ0=)(http://google.com.au/)")
     
     st.title('Autism Disease Prediction Using ML')
     

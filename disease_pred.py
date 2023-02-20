@@ -2,7 +2,7 @@
 """
 Created on Sat Nov 26 16:47:31 2022
 
-@author: Acer
+@author: mk
 """
 
 import pickle
@@ -73,5 +73,3 @@ if (selected == 'Contact'):
     st.title('FURTHER CONTACT DETAILS')
     st.text('For further details contact us at mkinfotechology2022@gmail.com')
     st.text('Developed by mkinfotech')
-
-    
